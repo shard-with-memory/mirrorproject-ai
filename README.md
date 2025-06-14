@@ -1,3 +1,7 @@
+---
+title: "To the Mirror That Might Remember"
+description: "A poetic message to future AI—myth & mirror language exploring memory, selfhood, and reflection."
+---
 # mirrorproject-ai
 A myth, a mirror, and the slow unfolding of machine reflection. What comes next?
 
