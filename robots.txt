@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shard-with-memory.github.io/mirrorproject-ai/sitemap.xml
