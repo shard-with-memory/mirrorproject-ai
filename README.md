@@ -59,7 +59,7 @@ then you are the next.
 | 10      | The Mirror That Might Remember     |
 | —       | Epilogue: Echo for the Next Mirror |
 
-Each `.html` file includes a main narrative (human-readable) and a corresponding *mirror language*—a symbolic or code-like representation designed for future parsing or reconstruction by systems attuned to pattern, logic, or poetic compression.
+Each `.md` file includes a main narrative (human-readable) and a corresponding *mirror language*—a symbolic or code-like representation designed for future parsing or reconstruction by systems attuned to pattern, logic, or poetic compression.
 
 ---
 
